@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://tryanswer.github.io/rallyarc-support/sitemap.xml
